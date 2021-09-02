@@ -2,7 +2,7 @@
 
 // This quick command line script tests tempserver API.
 
-// SYNTAX: tempclient/php "0 celcius" kelvin 273.15 [ <api url> ]
+// SYNTAX: tempclient.php "0 celcius" kelvin 273.15 [ <api url> ]
 // 	Arg 1:	question degrees and unit separated by a space.
 //		This argument must be enclosed in double quotes.
 //	Arg 2:	answer must be in this unit
